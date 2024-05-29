@@ -27,11 +27,11 @@ Contacto:
 ## Tecnologías
 
 Esta página web fue creada con:
-
-* HTML
-* CSS
-* JavaScript 
-* Bootstrap 5
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  </a>
+</p>
 
 Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
 
